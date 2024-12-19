@@ -68,5 +68,5 @@ docker-compose down -v
 ## Contributing
 Contributions are welcome! Feel free to open a pull request or issue on GitHub.
 ## Contact
-For any inquiries, you can reach me at [aohkgnadnart](mailto:aohkgnadnart@gmail.com).
+For any inquiries, you can reach me at [nhuttruong912](mailto:nhuttruong619@gmail.com).
 
